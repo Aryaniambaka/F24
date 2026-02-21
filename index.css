@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+    
+    
+}
+#main{
+    background-color: aliceblue;
+    border-radius: 7px;
+    height: 500px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    
+    font-family: orbitron;
+    font-size: 50px;
+
+}
